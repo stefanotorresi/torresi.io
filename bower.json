@@ -1,0 +1,9 @@
+{
+  "name": "stefanotorresi.it",
+  "private": true,
+  "dependencies": {
+    "cw-normalize": "~1.0.1",
+    "bourbon": "~4.1.0",
+    "neat": "~1.7.1"
+  }
+}
