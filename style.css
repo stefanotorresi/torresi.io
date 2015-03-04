@@ -422,6 +422,9 @@ a {
       margin-right: 0; }
     .main-header h1.right {
       color: #3366cc; }
+    @media (max-width: 350px) {
+      .main-header h1 {
+        font-size: 36px; } }
 
 .payoff {
   max-width: 68em;
