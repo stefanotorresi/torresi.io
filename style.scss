@@ -67,6 +67,9 @@ a {
     &.right {
       color: $brand-color;
     }
+    @media (max-width: 420px) {
+      font-size: 48px;
+    }
     @media (max-width: 350px) {
       font-size: 36px;
     }
