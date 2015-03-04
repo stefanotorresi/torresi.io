@@ -26,6 +26,7 @@ $border-color: $brand-gray;
 html,
 body {
   height: 100%;
+  min-width: 250px;
 }
 
 body {
@@ -66,6 +67,11 @@ a {
     font-weight: normal;
     &.right {
       color: $brand-color;
+    }
+    @media (min-width: 640px) {
+      br {
+        display: none;
+      }
     }
     @media (max-width: 420px) {
       font-size: 48px;
