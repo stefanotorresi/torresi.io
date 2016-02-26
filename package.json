@@ -6,6 +6,6 @@
   },
   "scripts": {
     "build": "node-sass --include-path node_modules/support-for/sass --output-style=compressed style.scss style.css",
-    "watch": "node-sass -w --include-path node_modules/support-for/sass --output-style=expanded style.scss style.css"
+    "watch": "npm run build -- -w style.scss --source-map true --output-style=expanded "
   }
 }
