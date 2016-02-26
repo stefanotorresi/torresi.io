@@ -8,9 +8,9 @@ $main-bg: $brand-gray;
 $brand-color: #3366cc;
 $border-color: $brand-gray;
 
-@import "bower_components/bourbon/app/assets/stylesheets/bourbon";
-@import "bower_components/neat/app/assets/stylesheets/neat";
-@import "bower_components/cw-normalize/normalize";
+@import "node_modules/bourbon/app/assets/stylesheets/bourbon";
+@import "node_modules/bourbon-neat/app/assets/stylesheets/neat";
+@import "node_modules/normalize-scss/sass/normalize";
 
 @font-face {
   font-family: 'tccm';

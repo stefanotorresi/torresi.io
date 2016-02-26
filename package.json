@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "bourbon": "^4.2.6",
+    "bourbon-neat": "^1.7.2",
+    "normalize-scss": "^4.0.3"
+  },
+  "scripts": {
+    "build": "node-sass --include-path node_modules/support-for/sass --output-style=compressed style.scss style.css",
+    "watch": "node-sass -w --include-path node_modules/support-for/sass --output-style=expanded style.scss style.css"
+  }
+}
