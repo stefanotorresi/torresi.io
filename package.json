@@ -2,6 +2,7 @@
   "dependencies": {
     "bourbon": "^4.2.6",
     "bourbon-neat": "^1.7.2",
+    "node-sass": "^3.4.2",
     "normalize-scss": "^4.0.3"
   },
   "scripts": {
