@@ -86,7 +86,7 @@ a {
   @extend .split-bg;
   @include outer-container;
   font-size: 24px;
-  p {
+  > div {
     @include span-columns(6);
   }
 }
