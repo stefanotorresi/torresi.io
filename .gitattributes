@@ -1,5 +1,2 @@
 .gitattributes export-ignore
 .gitignore export-ignore
-node_modules export-ignore
-package.json export-ignore
-style.scss export-ignore

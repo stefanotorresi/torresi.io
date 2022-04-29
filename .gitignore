@@ -1,3 +1,2 @@
-*.map
-/node_modules
-/style.css
+.hugo_build.lock
+/public
