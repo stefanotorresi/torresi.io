@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'tccm';
+    src: url("../fonts/tccm-webfont.eot");
+    src: url("../fonts/tccm-webfont.eot?#iefix") format("embedded-opentype"),url("../fonts/tccm-webfont.woff") format("woff"),url("../fonts/tccm-webfont.ttf") format("truetype"),url("../fonts/tccm-webfont.svg#TwCenMTCondensedRegular") format("svg");
+    font-weight: normal;
+    font-style: normal
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $header-font-family;
+    font-weight: normal;
+}
+
+
+h1 {
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 4rem;
+}
+
+h3 {
+    font-size: 3rem;
+}
+
+.content .about h2 {
+    font-size: 3rem;
+}
+
+.navigation {
+    a, span {
+        font-family: $header-font-family;
+        font-weight: normal;
+        font-size: 2.5rem;
+    }
+}
+
+.avatar img {
+    box-shadow: -1px 1px 2px 1px rgba(0, 0, 0, 0.40);
+}
+
+iframe.gdrive {
+    display: block;       /* iframes are inline by default */
+    background: #212121;
+    border: none;         /* Reset default border */
+    width: 100%;
+    height: 100%;
+}
