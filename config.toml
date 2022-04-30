@@ -47,7 +47,11 @@ childsrc = ["'self'"]
 fontsrc = ["'self'", "https://fonts.gstatic.com", ]
 formaction = ["'self'"]
 framesrc = ["'self'", "https://drive.google.com"]
-imgsrc = ["'self'", "https://www.gravatar.com"]
+imgsrc = [
+  "'self'",
+  "https://www.gravatar.com",
+  "www.googletagmanager.com",
+]
 objectsrc = ["'none'"]
 stylesrc = [
   "'self'",
@@ -57,7 +61,7 @@ stylesrc = [
 scriptsrc = [
   "'self'", 
   "'unsafe-inline'", 
-  "https://www.google-analytics.com",
+  "https://www.googletagmanager.com",  
 ]
 prefetchsrc = ["'self'"]
 # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
