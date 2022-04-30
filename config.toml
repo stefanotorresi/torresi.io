@@ -115,9 +115,9 @@ url = "mailto:stefano@torresi.io"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "Intro"
 weight = 1
-url = "about/"
+url = "intro/"
 
 [[languages.en.menu.main]]
 name = "CV"

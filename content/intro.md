@@ -1,5 +1,5 @@
 +++
-title = "Hello there,"
+title = "Intro"
 description = "Short biography"
 date = "2022-04-30"
 +++

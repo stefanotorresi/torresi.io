@@ -1,4 +1,5 @@
 +++
+title = "Curriculum Vitae"
 slug = "cv"
 layout = "simple"
 +++
