@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/stefanotorresi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://torresi.io
+  * I am stefanotorresi (https://keybase.io/stefanotorresi) on keybase.
+  * I have a public key ASB1RNn_26sGGsqYNddAMU9kl1g6ygHU-hrZwBPhR6rnMwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01011ebca2f69e76a603fb1d34ffdde1a3dd530d5671dbac7a3e82fb33b5b66f9acb0a",
+      "host": "keybase.io",
+      "kid": "01207544d9ffdbab061aca9835d740314f6497583aca01d4fa1ad9c013e147aae7330a",
+      "uid": "ab2c319de20af85a52029f6776aaae00",
+      "username": "stefanotorresi"
+    },
+    "merkle_root": {
+      "ctime": 1677795724,
+      "hash": "c73e1f60199db92ae4256e37545bad0e3fd1aacd8ca895e674963755294cc94a2a439ac9bf92ff88e1c78cb0a78c9df0c06e03741404d74c78f99beef1ebcced",
+      "hash_meta": "a688491a9324a6f47933c5fab0740f6a0b951e28f7aa13fb218f80b8f177b973",
+      "seqno": 24137073
+    },
+    "service": {
+      "entropy": "CVGtBCMdDOzcDSC8mhV0fbM+",
+      "hostname": "torresi.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1677796119,
+  "expire_in": 504576000,
+  "prev": "6656998b34691a9491b6801a0a5456e2512062065dd1a34203b7bcb760c6e1ab",
+  "seqno": 41,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdUTZ/9urBhrKmDXXQDFPZJdYOsoB1Poa2cAT4Ueq5zMKp3BheWxvYWTESpcCKcQgZlaZizRpGpSRtoAaClRW4lEgYgZd0aNCA7e8t2DG4avEICQNQy2J0JVgo423qcd/SFtEnmCO4BAurryszMxfWv2jAgHCo3NpZ8RAx2zfPlRX/I4OHPHIl5f5jd2nl6gRRWtK2rBauTi5b+2uQxn4i/3Coy9xM51LFsdTXak/L8lHazi0Y1Jnb+/2CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAncl3k4cpUFjJJvCS4+731LrvbCinewOGTZMYMoXxIIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/stefanotorresi
+
+==================================================================
